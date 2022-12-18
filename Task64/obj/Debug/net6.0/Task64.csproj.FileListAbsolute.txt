@@ -1,0 +1,15 @@
+C:\Users\kmezh\OneDrive\Рабочий стол\GEEKBRAINS_3628_3626\HomeWork9\Task64\bin\Debug\net6.0\Task64.exe
+C:\Users\kmezh\OneDrive\Рабочий стол\GEEKBRAINS_3628_3626\HomeWork9\Task64\bin\Debug\net6.0\Task64.deps.json
+C:\Users\kmezh\OneDrive\Рабочий стол\GEEKBRAINS_3628_3626\HomeWork9\Task64\bin\Debug\net6.0\Task64.runtimeconfig.json
+C:\Users\kmezh\OneDrive\Рабочий стол\GEEKBRAINS_3628_3626\HomeWork9\Task64\bin\Debug\net6.0\Task64.dll
+C:\Users\kmezh\OneDrive\Рабочий стол\GEEKBRAINS_3628_3626\HomeWork9\Task64\bin\Debug\net6.0\Task64.pdb
+C:\Users\kmezh\OneDrive\Рабочий стол\GEEKBRAINS_3628_3626\HomeWork9\Task64\obj\Debug\net6.0\Task64.csproj.AssemblyReference.cache
+C:\Users\kmezh\OneDrive\Рабочий стол\GEEKBRAINS_3628_3626\HomeWork9\Task64\obj\Debug\net6.0\Task64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kmezh\OneDrive\Рабочий стол\GEEKBRAINS_3628_3626\HomeWork9\Task64\obj\Debug\net6.0\Task64.AssemblyInfoInputs.cache
+C:\Users\kmezh\OneDrive\Рабочий стол\GEEKBRAINS_3628_3626\HomeWork9\Task64\obj\Debug\net6.0\Task64.AssemblyInfo.cs
+C:\Users\kmezh\OneDrive\Рабочий стол\GEEKBRAINS_3628_3626\HomeWork9\Task64\obj\Debug\net6.0\Task64.csproj.CoreCompileInputs.cache
+C:\Users\kmezh\OneDrive\Рабочий стол\GEEKBRAINS_3628_3626\HomeWork9\Task64\obj\Debug\net6.0\Task64.dll
+C:\Users\kmezh\OneDrive\Рабочий стол\GEEKBRAINS_3628_3626\HomeWork9\Task64\obj\Debug\net6.0\refint\Task64.dll
+C:\Users\kmezh\OneDrive\Рабочий стол\GEEKBRAINS_3628_3626\HomeWork9\Task64\obj\Debug\net6.0\Task64.pdb
+C:\Users\kmezh\OneDrive\Рабочий стол\GEEKBRAINS_3628_3626\HomeWork9\Task64\obj\Debug\net6.0\Task64.genruntimeconfig.cache
+C:\Users\kmezh\OneDrive\Рабочий стол\GEEKBRAINS_3628_3626\HomeWork9\Task64\obj\Debug\net6.0\ref\Task64.dll
